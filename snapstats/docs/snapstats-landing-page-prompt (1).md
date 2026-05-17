@@ -177,7 +177,7 @@ Build these sections in this exact order. Each section has a specific conversion
 - SSO and API access
 - White-label options
 - Dedicated onboarding
-- CTA: "CONTACT US" (secondary button, links to mailto:hello@snapstats.app)
+- CTA: "CONTACT US" (secondary button, links to mailto:ernie@snapstats.app)
 
 - Pro card should be visually elevated (slightly larger, lime top border or glow)
 - All prices show monthly by default, switch to yearly on toggle
@@ -225,7 +225,7 @@ Build these sections in this exact order. Each section has a specific conversion
 
 - 4 columns on desktop, stacked on mobile:
   - **Product**: Features, Pricing, Sports, How It Works (anchor links to sections above)
-  - **Company**: About, Contact (hello@snapstats.app), Blog (placeholder)
+  - **Company**: About, Contact (ernie@snapstats.app), Blog (placeholder)
   - **Legal**: Privacy Policy (placeholder), Terms of Service (placeholder)
   - **Connect**: @snapstatsapp links for Twitter/X, Instagram, LinkedIn
 - Bottom bar: "© 2026 SnapStats. All rights reserved." + snapstats.app
@@ -242,7 +242,7 @@ Build these sections in this exact order. Each section has a specific conversion
 - Pricing toggle is client-side state (useState for monthly/yearly switch)
 - "Get Notified" email capture: just collect the email in a form. Console.log it for now or wire to a simple API route. Do not over-engineer this.
 - All "Start Free Trial" buttons link to `/signup` (even if that page doesn't exist yet)
-- "Contact Us" links to mailto:hello@snapstats.app
+- "Contact Us" links to mailto:ernie@snapstats.app
 - Semantic HTML throughout. Proper heading hierarchy (one h1, h2s for sections, h3s for cards).
 - Mockups and visuals: Build fake UI components styled to look like the real desktop product. Use browser window chrome (title bar with dots, URL bar showing snapstats.app) around product mockups. Do NOT use phone mockups. The product is a desktop web app. Every visual should reinforce that this is a serious film room tool, not a phone app.
 

@@ -1391,7 +1391,7 @@ A visitor lands here and within 10 seconds understands:
 ### Section 13: Footer
 
 - Product: Features, Pricing, Sports, How It Works
-- Company: About, Contact (hello@snapstats.app), Blog
+- Company: About, Contact (ernie@snapstats.app), Blog
 - Legal: Privacy Policy, Terms of Service
 - Connect: @snapstatsapp on X, Instagram, LinkedIn
 - Bottom: copyright 2026 SnapStats
@@ -1488,4 +1488,4 @@ A visitor lands here and within 10 seconds understands:
 
 *This is a living document. Update it as the product evolves.*
 *Last updated: February 2026*
-*SnapStats (snapstats.app) | hello@snapstats.app | @snapstatsapp*
+*SnapStats (snapstats.app) | ernie@snapstats.app | @snapstatsapp*
